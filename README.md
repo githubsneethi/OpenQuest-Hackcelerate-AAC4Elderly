@@ -1,42 +1,60 @@
 # OpenQuest — AAC for Older Adults
 
-An accessibility-focused project from **OpenQuest Hackcelerate** exploring augmentative and alternative communication (AAC) for older adults.
+OpenQuest is an accessibility-focused initiative designed to explore how augmentative and alternative communication (AAC) tools can support older adults in expressing their needs, preferences, and lived experiences more effectively.
 
-> **Project status:** Early-stage. This repository does not yet include implementation files or setup instructions. Project details will be updated as development progresses.
+This project brings together inclusive design, usability, and communication accessibility to address real-world challenges faced by older adults, including speech difficulties, cognitive load, sensory limitations, and reduced confidence in digital tools.
 
-## About
+## Why this project matters
 
-Communication can become difficult for many reasons, including age-related changes in speech, hearing, mobility, or cognition. This project aims to explore how thoughtfully designed AAC tools can help older adults express their needs, preferences, and thoughts, and communicate with the people around them.
+Effective communication is essential for independence, dignity, and social connection. Many older adults face barriers to communication because of age-related changes, medical conditions, or reduced access to technology that is designed with their needs in mind.
 
-The project name and repository context indicate this area of focus; specific app capabilities and technical choices have not yet been documented.
+OpenQuest aims to reimagine AAC as a simple, supportive, and respectful tool that helps users communicate with clarity and confidence.
 
-## Project goals
+## Objectives
 
-- Explore communication needs and accessibility considerations for older adults.
-- Prioritize clarity, ease of use, and inclusive design.
-- Develop and document an approach to AAC that can be evaluated with users and caregivers.
+- Improve access to communication support for older adults.
+- Design inclusive, easy-to-use AAC experiences.
+- Prioritize accessibility, readability, and usability across varied abilities.
+- Explore how technology can reduce communication barriers in everyday life.
+- Develop a foundation for future product and research work in accessible communication.
 
-## Getting started
+## Project scope
 
-There is no runnable application or development environment documented in the repository yet. Setup instructions will be added when the source code and required tools are available.
+This repository currently represents the early concept and project direction. The focus is on exploring the problem space, defining user-centered goals, and preparing a foundation for future implementation work.
 
-## Roadmap
+As the project evolves, this README will be expanded with:
 
-- [ ] Document user needs and project scope.
-- [ ] Define accessibility and usability requirements.
-- [ ] Add the initial implementation and development instructions.
-- [ ] Document how to test and provide feedback.
+- system architecture and technical design
+- project setup instructions
+- usage guidelines
+- research or user-testing findings
+- contribution guidelines and coding standards
+
+## Vision
+
+To create AAC solutions that are not only functional but also compassionate, intuitive, and empowering for older adults and the caregivers, families, and communities who support them.
+
+## Current status
+
+This repository is in its early stages. The project is being structured around accessibility and inclusive communication design, but implementation details, setup steps, and deployment instructions are still being defined.
 
 ## Contributing
 
-Contributions and feedback are welcome. Before opening a pull request, please check the repository for contribution guidelines. If none are available, open an issue to discuss substantial changes or feature proposals first.
+Contributions, feedback, and collaboration are welcome. If you are interested in supporting this initiative, we encourage you to:
 
-When contributing to an accessibility-focused project, consider how proposed changes affect older adults with different communication, sensory, motor, and cognitive needs.
+- open an issue to discuss ideas or improvements
+- suggest accessibility-focused use cases
+- propose design enhancements for usability and inclusion
+- contribute to research, documentation, or early implementation work
 
 ## License
 
-No license has been specified yet. Until one is added, the project’s contents remain subject to their applicable copyright; please contact the maintainers before reusing or distributing them.
+No license has been specified for this repository yet. Please contact the repository maintainers before reusing, modifying, or distributing the project materials.
 
 ## Acknowledgments
 
-Created as part of **OpenQuest Hackcelerate**. Thank you to everyone working to make communication more accessible and inclusive.
+OpenQuest is being developed as part of the Hackcelerate initiative, with a focus on inclusive technology and accessible communication for aging communities.
+
+---
+
+This repository will continue to evolve as the project matures. Feedback and collaboration are encouraged as we shape a more thoughtful and accessible communication experience for older adults.
